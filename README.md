@@ -93,6 +93,6 @@ These foundational concepts form the core of statistical analysis in data scienc
 
 ---
 
-This project was created for individual learning purposes based on the course content prepared by Atıl Samancıoğlu.
+## This project was created for **individual learning purposes** based on the course content from the **"Artificial Intelligence: 100-Day Bootcamp"** by Atıl Samancıoğlu.
 
-👉 You can access the course here: Artificial Intelligence: 100-Day Bootcamp
+## 👉 You can access the course here: [Artificial Intelligence: 100-Day Bootcamp](https://www.udemy.com/course/yapay-zeka-100-gunluk-kamp/)
