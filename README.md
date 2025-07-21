@@ -85,6 +85,14 @@ Making conclusions about populations based on sample data using statistical test
 Allows updating probabilities based on new evidence.  
 It forms the basis of probabilistic models like the Naive Bayes classifier.
 
+
+
 ---
 
 These foundational concepts form the core of statistical analysis in data science and provide the theoretical background necessary for advanced modeling and machine learning techniques.
+
+---
+
+This project was created for individual learning purposes based on the course content prepared by Atıl Samancıoğlu.
+
+👉 You can access the course here: Artificial Intelligence: 100-Day Bootcamp
